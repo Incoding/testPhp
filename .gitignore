@@ -108,3 +108,9 @@ local.properties
 # Code Recommenders
 .recommenders/
 
+.gitignore
+.idea/
+array/
+function/
+superGlobalVar/
+var/
